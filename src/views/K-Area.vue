@@ -66,7 +66,7 @@ export default {
   },
   methods:{
       getKAreas(){
-          axios.get('http://localhost:4899/knowledge-areas')
+          axios.get('https://knowledge-demo.herokuapp.com/knowledge-areas')
           .then( (response) => {
             let initialAreas = response.data;
             this.areas = initialAreas.map(function(obj){
