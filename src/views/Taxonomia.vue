@@ -1,6 +1,6 @@
 <template>
     <div>
-        <v-img src="../assets/TaxonomyChart.png">
+        <v-img src="https://res.cloudinary.com/dggqauzyy/image/upload/v1618474607/e8txzt4wwdo9c9xqehxp.png">
 
         </v-img>
         <br>

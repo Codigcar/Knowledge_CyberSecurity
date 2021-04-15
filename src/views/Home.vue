@@ -73,7 +73,7 @@ export default {
 
 <style scoped>
     .bgimg {
-        background-image: url('../assets/cyber security lock.jpg');
+        background-image: url('https://res.cloudinary.com/dggqauzyy/image/upload/v1618474607/ecwlajfvlrs2ib2uftvr.jpg');
         color: white;
         height: 100%;
         background-position: center;
