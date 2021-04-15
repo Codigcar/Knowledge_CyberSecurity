@@ -1,3 +1,5 @@
+Deploy: https://codigcar.github.io/Knowledge_CyberSecurity_Frontend/
+
 # ks-fe
 
 ## Project setup
